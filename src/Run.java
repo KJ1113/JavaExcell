@@ -5,7 +5,7 @@ public class Run {
         em.ReadandLoadExcell();
         cl.SortCells();
         em.WriteSortResult();
-        em.PointYellow("경북대학교,금오공과대학교");
+        em.PointYellow("경북대학교,금오공과대학교,영남대학교,경북대학교");
         //cl.printSheet();
     }
 }
